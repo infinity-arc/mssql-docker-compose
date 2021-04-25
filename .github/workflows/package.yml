@@ -7,8 +7,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -18,7 +16,6 @@ jobs:
   # This workflow contains a single job called "build"
   build-and-publish-head:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/develop' # Running this job only for develop branch
 
     steps:
     - uses: actions/checkout@v2 # Checking out the repo
