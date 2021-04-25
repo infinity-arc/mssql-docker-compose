@@ -1,5 +1,6 @@
 # Microsoft Sql Server Linux Container
-<small>with segregated persistence</small>
+<small>With segregated persistence volumes and environment variable files to ease.</small>
+<hr>
 
 ### Requirements:
 - Docker with docker-compose
