@@ -115,4 +115,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-##### Courtesy of [DbaFromTheCold](https://dbafromthecold.com/2020/07/17/sql-server-and-docker-compose/)
+##### Based on an article published by [DbaFromTheCold](https://dbafromthecold.com/2020/07/17/sql-server-and-docker-compose/).
