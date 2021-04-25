@@ -11,6 +11,8 @@
 4. run `docker-compose up -d`  
 5. Connect to `localhost` username: `sa` password: `<the password from the sapassword.env>`
 
-<div style="float:center;">
-      Courtesy of <span><a href="https://dbafromthecold.com/2020/07/17/sql-server-and-docker-compose/" target="_blank">DbaFromTheCold</a></span>
+---
+
+<div>
+      <h6 style="float:center;">Courtesy of <span><a href="https://dbafromthecold.com/2020/07/17/sql-server-and-docker-compose/" target="_blank">DbaFromTheCold</a></span></h6>
 <div>
