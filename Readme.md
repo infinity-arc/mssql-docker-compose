@@ -1,6 +1,7 @@
 [![Codacy Security Scan](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/codacy-analysis.yml)
 [![Docker Image CI](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/docker-image.yml/badge.svg)](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/docker-image.yml)
 [![Snyk Container](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/snyk-infrastructure-analysis.yml/badge.svg)](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/snyk-infrastructure-analysis.yml)
+[![CI to Docker Hub](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/main.yml/badge.svg)](https://github.com/infinity-arc/mssql-docker-compose/actions/workflows/main.yml)
 
 # Microsoft Sql Server Linux Container
 <small>With segregated persistence volumes and environment variable files to ease.</small>
