@@ -14,7 +14,7 @@
 
 ## Method 1 - By Cloning
 
-1. Clone https://github.com/infinity-arc/infinity-arc-portal.git
+1. Clone https://github.com/infinity-arc/mssql-docker-compose.git
 2. cd mssql-docker-compose
 3. Update the password in the `sapassword.env` file save and close.
 4. run `docker-compose up -d`  
